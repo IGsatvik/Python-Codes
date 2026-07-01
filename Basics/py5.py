@@ -17,3 +17,7 @@ elif choice == 4 :
         print(f"Your answer is {round(x/y,3)}")
     else :
         print("Division not possible")
+#use pass to skip code block
+
+if choice !=0 :
+    pass
