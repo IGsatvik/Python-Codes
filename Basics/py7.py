@@ -1,0 +1,6 @@
+name=input("Enter your name : ")
+print(len(name))
+print(name.find('o'))
+print(name.capitalize())
+print(name.count('a'))
+print(name.rfind('t'))
