@@ -1,0 +1,8 @@
+x=float(input("Enter a value : "))
+print(f"You entered : {x:.2f}")
+print(f"You entered : {x:10}")
+print(f"You entered : {x:010}")
+print(f"You entered : {x:<10}")
+print(f"You entered : {x:>10}")
+print(f"You entered : {x:^10}")
+print(f"You entered : {x:,}")
